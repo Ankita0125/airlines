@@ -1,3 +1,3 @@
-print("hi")
-lst={}
+print("hi"
+lst={
 lst.append("ank")
